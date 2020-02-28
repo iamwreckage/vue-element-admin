@@ -30,4 +30,4 @@ jobs:
         SOURCE: "dist/"
         REMOTE_HOST: "118.25.176.129"
         REMOTE_USER: "ubuntu"
-        TARGET" "/home/ubuntu/www/www.fineauto.vip/autoDeploy/"
+        TARGET: "/home/ubuntu/www/www.fineauto.vip/autoDeploy/"
